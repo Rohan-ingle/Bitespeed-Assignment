@@ -35,6 +35,7 @@ This project implements the Bitespeed identity reconciliation backend service us
 <p align="center">
     <img src="image-2.png" alt="UI-1" />
 </p>
+
 ## API Endpoints
 
 - `POST /identify`  
